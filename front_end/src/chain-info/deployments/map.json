@@ -1,0 +1,10 @@
+{
+  "42": {
+    "PaymentProcessor": [
+      "0x042C5C088406C06343c737E45ca531f6eE57177C"
+    ],
+    "TestERC20": [
+      "0x623fF1b71F72140255955e9dEc6538b4ee37A202"
+    ]
+  }
+}
